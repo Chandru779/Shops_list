@@ -1,0 +1,102 @@
+.container{
+    width: 30%;
+    background-color: gray;
+    margin:5% 35% 0 35%;
+    height: 450px;
+    text-align: center;
+    border-radius: 8px;
+}
+.container_inner{
+    padding: 5%;
+    display: block;
+}
+
+label{
+    margin: 10px 30px;
+    display: block;
+    text-align: left;
+    font-size: 20px;
+}
+
+.shopname{
+    width: 80%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    text-transform: capitalize;
+    font-size:15px;
+
+}
+
+.area{
+    width: 80%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    text-transform: capitalize;
+    font-size:15px;
+
+}
+
+.category{
+    width: 80%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    text-transform: capitalize;
+    font-size:15px;
+
+}
+
+.openingdate{
+    width: 80%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    text-transform: capitalize;
+    font-size:15px;
+
+}
+
+.closingdate{
+    width: 80%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    text-transform: capitalize;
+    font-size:15px;
+
+}
+
+.addShop{
+    margin: 5% 15%;
+    background-color: rgb(233, 240, 233);
+    color: black;
+    display: block;
+    width: 25%;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    text-transform: capitalize;
+    font-size:15px;
+}
+
+.listShops{
+    margin:5% 25% ;
+    display: inline-block;
+    background-color: gray;
+    color: whitesmoke;
+    width: 55%;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    text-transform: capitalize;
+    font-size:15px;
+}

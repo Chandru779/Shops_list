@@ -1,0 +1,81 @@
+.outerPanel{
+    width: 40%;
+    margin: auto;
+    padding: 2%;
+    background-color: rgb(234, 228, 236);
+    border-radius: 10px;
+    border: 1px solid greenyellow;
+}
+
+.heading{
+    margin: -20px -5px 0px -10px;
+    padding: 0;
+    font-size: 30px;
+}
+
+.firstLetter{
+    font-size: 30px;
+    color: red;
+    font-size: 40px;
+}
+
+.addShopInside{
+   position: relative;
+   width: 90px;
+   height: 30px;
+   border: none;
+   border-radius: 10px;
+   font-weight: 600;
+   cursor: pointer;
+   top: -35px;
+   right: -450px;
+
+}
+.searchBar{
+    width: 60%;
+    margin:0% 15%;
+    height: 36px;
+    border-radius: 10px;
+    font-size: medium;
+    border: 2px solid gray;
+    outline: none;
+}
+
+.radioButtons{
+    margin: 2px 30px;
+    padding: 4px;
+    display: flex;
+}
+
+.innerPanel{
+    width: 70%;
+    padding: 0px 5px ;
+    background-color: rgb(152, 136, 243);
+    margin-left: 10%;
+    border-radius: 10px;
+}
+
+.eachShop{
+    list-style: none;
+    margin: 10px;
+}
+
+.shopTitle{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 22px;
+    color: rgb(235, 227, 227);
+}
+
+.head{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(44, 41, 41);
+}
+
+.deleteBtn{
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: -2px 2px 2px gray;
+    cursor: pointer;
+}
